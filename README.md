@@ -1,2 +1,0 @@
-# MyProjectsSomraj
-Soil Moisture Detector
